@@ -14,3 +14,5 @@ else
 {
     Console.WriteLine("That's not a valid integer for age.");
 }
+
+Console.WriteLine("Name:"+input+" Age:"+age);
